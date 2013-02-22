@@ -441,6 +441,7 @@ a.mylinksf:hover {
     background-color:#cccccc;
     text-align:center;
     height: 50px;
+    height: auto;
     margin-top: -50px;
     color:#212b35;
     line-height: 50px; 
@@ -478,30 +479,58 @@ a.mylinksf:hover {
     
 }
 
+
+
 .detailsimg {
+
     padding-bottom: 10px;
+
     display:inline-block;
+
 }
+
+
 
 .section {
+
     display: block;
+
     text-align: center;
+
     border-top: 1px solid #d3d3d3;
+
     border-bottom: 1px solid #d3d3d3;
+
     margin: 10px auto 40px;
+
     min-height: 35px;
+
     padding: 12px 0 0;
+
 }
+
+
 
 .section h5 {
+
     display: inline;
+
     margin: 0 auto;
+
     text-align: center;
+
     color:#6b6b6b;
+
 }
 
+
+
 .content {
+
     padding-bottom: 50px;
+
 }
+
+
 
 
